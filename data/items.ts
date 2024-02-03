@@ -34,11 +34,11 @@ export const Items: {[itemid: string]: ItemData} = {
 		isNonstandard: "Past",
 	},
 	absolite: {
-		name: "Absolite",
+		name: "Basculegionite",
 		spritenum: 576,
-		megaStone: "Absol-Mega",
-		megaEvolves: "Absol",
-		itemUser: ["Absol"],
+		megaStone: "Basculegion-Mega",
+		megaEvolves: "Basculegion",
+		itemUser: ["Basculegion"],
 		onTakeItem(item, source) {
 			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
 			return true;

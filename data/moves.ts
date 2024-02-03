@@ -14011,7 +14011,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	pollenpuff: {
 		num: 676,
 		accuracy: 100,
-		basePower: 90,
+		basePower: 500,
 		category: "Special",
 		name: "Pollen Puff",
 		pp: 15,

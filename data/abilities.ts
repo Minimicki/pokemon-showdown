@@ -50,7 +50,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 			}
 		},
 		flags: {},
-		name: "Adaptability",
+		name: "Stabby Stabby",
 		rating: 4,
 		num: 91,
 	},

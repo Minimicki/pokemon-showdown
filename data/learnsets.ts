@@ -58412,6 +58412,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 	basculegion: {
 		learnset: {
 			agility: ["9M"],
+			pollenpuff: ["9M"],
 			aquajet: ["9L12"],
 			bite: ["9L16"],
 			blizzard: ["9M"],
